@@ -1,0 +1,100 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e5199a3f70555689be7018ee7f9f878d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989da425bb6d6d5d8dbb95e4afffb82217"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98312b4bc59bbbe2c06c205bf4da6737f5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c7dd3f56f799b35458f81928cf1cb47b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e49342c138073362b0292529c5fa2a96"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9832b714f5c382be1583209a283ab57523"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e988aa39deb40f3972946f2d929d0b6130c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e987cb9c58d33d05677fb576674bac57313"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98bf764fd5de43d0e244cbe6e2f69c1731"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a60478de6464016ca4bce64a52fed960"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d6b4f9cd0664e4caf87e0ca8814c7d76"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98de61db8d8ef7f5a6a5a778a622626318"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e980584f203fe70709d4ed76b56f7c8ce9c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9858e43d378bdedc3ceb60c1adb0f770ac"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e983786431ce548989b846bbf1a7384f58e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e8cd2c510461aaa30819666e6706f51b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98431d3c3475c58277474d9b484d916cbf"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9844e7c30f967758063ef1581c62ef72e2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98857bd5cc69376a994ea9cb4969e9388e"
+    }
+  ],
+  "containerPath" : "/Users/giovanni/Desktop/bightapp/ios/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/giovanni/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/giovanni/Library/Developer/Xcode/DerivedData/Pods-deetmqpppenrmfdhkfynvejsltoo/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/giovanni/Library/Developer/Xcode/DerivedData/Pods-deetmqpppenrmfdhkfynvejsltoo/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : false,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : false
+}
